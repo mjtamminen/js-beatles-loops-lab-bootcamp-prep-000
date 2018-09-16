@@ -31,6 +31,5 @@ function iLoveTheBeatles(n) {
   do {
   emptyArray.push("I love the Beatles!");
   incrementVariable();
-} while (i < 5);
-
+  } while (i < 15);
 }
