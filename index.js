@@ -28,4 +28,9 @@ function iLoveTheBeatles(n) {
   
   let i=0
   
+  do {
+  console.log("doo-bee-doo-bee-doo");
+  incrementVariable();
+} while (i < 5);
+
 }
