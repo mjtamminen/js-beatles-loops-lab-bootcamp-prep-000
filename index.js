@@ -21,5 +21,5 @@ function johnLennonFacts(facts) {
     facts.push("${facts[i]}!!!")
     i++
   }
-  return 
+  return facts
 }
